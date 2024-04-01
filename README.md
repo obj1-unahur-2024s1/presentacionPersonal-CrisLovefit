@@ -38,7 +38,7 @@ object life{
     }
 }
 ```
-![Programador Fitness](./assets/fitness_programmer.png.png)
+![Programador Fitness](./assets/fitness_programmer.png)
 
 ## Un poco de mi historia
 A los 18 años luego de terminar la secundaria empecé la Ingeniería en Informática en la Universidad de La Matanza,
@@ -54,5 +54,7 @@ ampliamente, con mucho esfuero y perseverancia encontré que me apasiona mucho m
 una parte del camino ya transitada, tengo cada día más ganas.
 
 ## Redes:
-- [x] [Instagram](https://www.instagram.com/cris_lovefit/) (https://www.instagram.com/lovefit_ok/)
-- [x] [Discord](#cris_lovefit) (https://discord.gg/Cs243DdcYV)
+- [x] [Instagram](https://www.instagram.com/cris_lovefit/)
+- [x] [Instagram Lovefit](https://www.instagram.com/lovefit_ok/)
+- [x] [Discord](#cris_lovefit)
+- [x] [Discord Server](https://discord.gg/Cs243DdcYV)
