@@ -38,7 +38,7 @@ object life{
     }
 }
 ```
-![Programador Fitness](./assets/fitness_programmer.png)
+![Programador Fitness](./assets/fitness_programmer.jpeg)
 
 ## Un poco de mi historia
 A los 18 años luego de terminar la secundaria empecé la Ingeniería en Informática en la Universidad de La Matanza,
