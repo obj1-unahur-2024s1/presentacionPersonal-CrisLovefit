@@ -1,5 +1,3 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
 ### Mi nombre es:
 # Cristian Emmanuel Gonzalez
 
@@ -60,3 +58,5 @@ una parte del camino ya transitada, tengo cada día más ganas.
 
 - [x] Discord: #cris_lovefit
 - [x] [Discord Server](https://discord.gg/Cs243DdcYV)
+
+![Logo UNAHUR](./assets/UNAHUR.png)
