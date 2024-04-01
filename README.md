@@ -8,7 +8,7 @@ import wollok.game.*
 import obstaculos.*
 
 object cristian { 
-    var property ``` objetivosProfesionales = ["Ser un profesional excepcional",
+    var property objetivosProfesionales = ["Ser un profesional excepcional",
 	"Nunca dejar de crecer", "Poder desarrollar proyectos independientes"]
 
     method nombre() = "Mi nombre es Cristian Gonzalez"
