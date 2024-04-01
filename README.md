@@ -1,35 +1,56 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
-
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es:
+# Cristian Emmanuel Gonzalez
 
 ```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
+import wollok.game.*
+import obstaculos.*
+
+object cristian { 
+    var property objetivosProfesionales = ["Ser un profesional excepcional", "Nunca dejar de crecer", "Poder desarrollar proyectos independientes"]
+
+    method nombre() = "Mi nombre es Cristian Gonzalez"
+    
+    method lugar() = "Soy de la localidad de Ituzaing√≥"
+
+    method oficio() = "Trabajo de Entrenador Fitness" 
+
+    method hobbies() = ["Entrenamiento", "Videojuegos", "M√∫sica"]
+    
+    method perseverante() = "Cuando la vida me presenta obst√°culos hago hasta lo imposible para abatirlos y seguir adelante, tratando de superarme d√≠a a d√≠a"
+}
+
+object life{
+	method iniciar(){
+		game.title("La vida de Cristian")
+		
+    	game.addVisualCharacter(cristian)
+    	
+    	game.addVisual(obstaculos)
+    	
+    	game.whenCollideDo(player, {obstaculos => game.say(player, player.perseverante())})
+    	
+        game.start()
     }
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+!(./assets/fitness_programmer.png)
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Un poco de mi historia
+A los 18 a√±os luego de terminar la secundaria empec√© la Ingenier√≠a en Inform√°tica en la Universidad de La Matanza,
+curs√© un a√±o completo y la abandon√© porque se me hizo muy pesada y aburrida, hice muchos cursos diferentes en la U.T.N.
+pero apliqu√© muy poco de lo aprendido a nivel profesional (principalmente Desarrollo Web). Desde chico me gusta mucho la
+m√∫sica, toco la guitarra, incluso tuve una banda de rock durante unos 7 a√±os.
+En el √°mbito profesional me dedico al Fitness hace 8 a√±os aproximadamente, trabajo en gimnasios, doy clases a domicilio,
+y me encanta, pero mis ambiciones laborales van m√°s all√°.
+Tengo muchos amigos y conocidos que se dedican a distintas ramas de la inform√°tica, y durante a√±os recib√≠ una y otra vez
+la sugerencia de que debo estudiar programaci√≥n, y a principio de 2023 lo hice, empec√© en UNAHUR, con mil miedos e inseguridades
+por mi edad, peleando contra todos los demonios que siempre aparecen para desalentarnos, logr√© superar todas mis expectativas
+ampliamente, con mucho esfuero y perseverancia encontr√© que me apasiona mucho m√°s de lo que hubiera imaginado, y hoy, con
+una parte del camino ya transitada, tengo cada d√≠a m√°s ganas.
 
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Redes:
+- [x] [Instagram](https://www.instagram.com/cris_lovefit/) (https://www.instagram.com/lovefit_ok/)
+- [x] [Discord](#cris_lovefit) (https://discord.gg/Cs243DdcYV)
