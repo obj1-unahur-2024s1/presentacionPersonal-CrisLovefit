@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Mi nombre es:
+### Mi nombre es:
 # Cristian Emmanuel Gonzalez
 
 ```
@@ -8,7 +8,7 @@ import wollok.game.*
 import obstaculos.*
 
 object cristian { 
-    var property *objetivosProfesionales* = ["Ser un profesional excepcional",
+    var property **objetivosProfesionales** = ["Ser un profesional excepcional",
 	"Nunca dejar de crecer", "Poder desarrollar proyectos independientes"]
 
     method nombre() = "Mi nombre es Cristian Gonzalez"
