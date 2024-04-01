@@ -56,5 +56,5 @@ una parte del camino ya transitada, tengo cada día más ganas.
 ## Redes:
 - [x] [Instagram](https://www.instagram.com/cris_lovefit/)
 - [x] [Instagram Lovefit](https://www.instagram.com/lovefit_ok/)
-- [x] [Discord](#cris_lovefit)
+- [x] Discord :cris_lovefit)
 - [x] [Discord Server](https://discord.gg/Cs243DdcYV)
