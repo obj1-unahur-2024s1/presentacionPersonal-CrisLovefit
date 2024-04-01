@@ -40,8 +40,9 @@ object life{
 ```
 ![Programador Fitness](./assets/fitness_programmer.jpeg)
 
+
 ## Un poco de mi historia
-A los 18 años luego de terminar la secundaria empecé la Ingeniería en Informática en la Universidad de La Matanza,
+>A los 18 años luego de terminar la secundaria empecé la Ingeniería en Informática en la Universidad de La Matanza,
 cursé un año completo y la abandoné porque se me hizo muy pesada y aburrida, hice muchos cursos diferentes en la U.T.N.
 pero apliqué muy poco de lo aprendido a nivel profesional (principalmente Desarrollo Web). Desde chico me gusta mucho la
 música, toco la guitarra, incluso tuve una banda de rock durante unos 7 años.
