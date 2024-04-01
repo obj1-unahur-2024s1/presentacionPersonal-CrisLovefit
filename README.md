@@ -8,7 +8,8 @@ import wollok.game.*
 import obstaculos.*
 
 object cristian { 
-    var property objetivosProfesionales = ["Ser un profesional excepcional", "Nunca dejar de crecer", "Poder desarrollar proyectos independientes"]
+    var property objetivosProfesionales = ["Ser un profesional excepcional",
+	"Nunca dejar de crecer", "Poder desarrollar proyectos independientes"]
 
     method nombre() = "Mi nombre es Cristian Gonzalez"
     
@@ -18,7 +19,9 @@ object cristian {
 
     method hobbies() = ["Entrenamiento", "Videojuegos", "Música"]
     
-    method perseverante() = "Cuando la vida me presenta obstáculos hago hasta lo imposible para abatirlos y seguir adelante, tratando de superarme día a día"
+    method perseverante(){
+	return "Cuando la vida me presenta obstáculos hago hasta lo imposible
+	para abatirlos y seguir adelante, tratando de superarme día a día"
 }
 
 object life{
@@ -35,8 +38,7 @@ object life{
     }
 }
 ```
-
-!(./assets/fitness_programmer.png)
+![Programador Fitness](./assets/fitness_programmer.png.png)
 
 ## Un poco de mi historia
 A los 18 años luego de terminar la secundaria empecé la Ingeniería en Informática en la Universidad de La Matanza,
