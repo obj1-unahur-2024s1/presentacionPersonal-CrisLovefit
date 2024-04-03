@@ -25,15 +25,15 @@ object cristian {
 object life{
 	method iniciar(){
 		game.title("La vida de Cristian")
-		
-    	game.addVisualCharacter(cristian)
-    	
-    	game.addVisual(obstaculos)
-    	
-    	game.whenCollideDo(player, {obstaculos => game.say(player, player.perseverante())})
-    	
-        game.start()
-    }
+			
+	    	game.addVisualCharacter(cristian)
+	    	
+	    	game.addVisual(obstaculos)
+	    	
+	    	game.whenCollideDo(player, {obstaculos => game.say(player, player.perseverante())})
+	    	
+	        game.start()
+	}
 }
 ```
 ![Programador Fitness](./assets/fitness_programmer.jpeg)
